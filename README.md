@@ -1,4 +1,4 @@
-# 一个逗比写的逗比脚本
+# 一个写的逗比脚本
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
